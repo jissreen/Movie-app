@@ -1,0 +1,17 @@
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.show-item {
+  margin-bottom: 20px;
+}
+
+.summary-link,
+.booking-link {
+  display: inline-block;
+  margin-top: 10px;
+}
+
